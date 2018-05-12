@@ -1,0 +1,31 @@
+_repo: The-Sun-Dance-of-the-Blackfoot-Indians_35952
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wissler, Clark
+    birthdate: 1870
+    deathdate: 1947
+    gutenberg_agent_id: '37997'
+    url: http://www.gutenberg.org/2009/agents/37997
+description: ''
+gutenberg_issued: '2011-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35952'
+  lccn: '19010681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological Papers of the American Museum of Natural History, Vol.
+  XVI, Part III
+subjects:
+- !lcc 'E011'
+- !lcsh 'Siksika Indians'
+- !lcc 'GN'
+- !lcsh 'Sun dance'
+title: The Sun Dance of the Blackfoot Indians
+url: http://www.gutenberg.org/ebooks/35952
